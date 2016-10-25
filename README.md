@@ -1,4 +1,4 @@
-This is zero push module is  Mongooseim  version of https://github.com/ZeroPush/mod_zeropush 
+This is a zero_push module and also modified Mongooseim  version of https://github.com/ZeroPush/mod_zeropush  
 
 
 # mod_zeropush (Mongooseim)
@@ -31,7 +31,7 @@ Make sure you have erlang installed on the machine you are building from
 
 If you dont have souce repository and installed Mongooseim from executable file 
 
-Copy the *.beam files from the ebin directory to the location where the other modules are for your server( mail to me i.aadi07@gmail.com ti get  beam file )
+Copy the *.beam files from the ebin directory to the location where the other modules are for your server( mail to me i.aadi07@gmail.com to get  beam file )
 
 Add the configuration from below
 
